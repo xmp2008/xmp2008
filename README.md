@@ -8,7 +8,7 @@
 - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
-
+- 📝 I regularly write articles on <https://xmp2008.github.io/xmp-blog/>.
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -45,11 +45,6 @@
 
 <p align="center">
 <a href="xmpwoaichiyu@gmial.com"><img alt="Email" src="https://img.shields.io/badge/Email-xmpwoaichiyu@gmial.com-blue?style=flat-square&logo=gmail"></a>
-</p>
-
-<h3> 🤝🏻 &nbsp;My Blog </h3>
-<p align="center">
- <a href="https://xmp2008.github.io/xmp-blog/"><img alt="Blog" src="https://img.shields.io/badge/Blog-'https://xmp2008.github.io/xmp-blog/'-blue?style=flat-square&logo=blog"></a>
 </p>
 
 ⭐️ From [xmp2008](https://github.com/xmp2008)
