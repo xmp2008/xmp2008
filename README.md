@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🌱 &nbsp; Web Development :computer: | Cloud :cloud: 
+- 🌱 &nbsp;  Web Development :computer: | Cloud :cloud: 
 - 📝 I regularly write articles on <https://xmp2008.github.io/xmp-blog/>.
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
