@@ -2,9 +2,8 @@
 <h2> Hey there! I'm xmp2008.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🌱 &nbsp;  Web Development
-- 📝 &nbsp;  I regularly write articles on <https://xmp2008.github.io/xmp-blog/>.
+- 🌱 &nbsp;I’m web development
+- 📝 I regularly write articles on <https://xmp2008.github.io/xmp-blog/>.
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
