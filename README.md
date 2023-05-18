@@ -3,7 +3,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 📝 I regularly write articles on <https://xmp2008.github.io/xmp-blog/>.
+- 🌱 &nbsp;  Web Development
+- 📝 &nbsp;  I regularly write articles on <https://xmp2008.github.io/xmp-blog/>.
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
