@@ -49,7 +49,7 @@
 
 <h3> 🤝🏻 &nbsp;My Blog </h3>
 <p align="center">
-<a href="https://xmp2008.github.io/xmp-blog/"><img alt="Blog" src="https://img.shields.io/badge/blog-blue?style=flat-square&logo=blog"></a>
+ <a href="https://xmp2008.github.io/xmp-blog/"><img alt="Blog" src="https://img.shields.io/badge/Blog-https://xmp2008.github.io/xmp-blog/-blue?style=flat-square&logo=blog"></a>
 </p>
 
 ⭐️ From [xmp2008](https://github.com/xmp2008)
