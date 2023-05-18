@@ -44,10 +44,12 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/xmp2008/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
 <a href="xmpwoaichiyu@gmial.com"><img alt="Email" src="https://img.shields.io/badge/Email-xmpwoaichiyu@gmial.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+<h3> 🤝🏻 &nbsp;My Blog </h3>
+<p align="center">
+<a href="https://xmp2008.github.io/xmp-blog/"><img alt="Blog" src="https://img.shields.io/badge/blog-adityavs__-blue?style=flat-square&logo=blog"></a>
 </p>
 
 ⭐️ From [xmp2008](https://github.com/xmp2008)
