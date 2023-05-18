@@ -2,9 +2,8 @@
 <h2> Hey there! I'm xmp2008.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🌱 &nbsp; Web Development :computer: | Cloud :cloud: 
 - 📝 I regularly write articles on <https://xmp2008.github.io/xmp-blog/>.
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -33,7 +32,7 @@
 
 ### 📊 This week I spent my time on
 
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=einverne&api_domain=wakapi.einverne.info&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777&layout=compact)
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xmp2008&api_domain=wakapi.xmp2008.info&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777&layout=compact)
 
 <a href="https://github.com/xmp2008">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xmp2008&theme=buefy&show_icons=true" />
