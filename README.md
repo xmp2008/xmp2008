@@ -3,11 +3,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 - 📝 I regularly write articles on <https://xmp2008.github.io/xmp-blog/>.
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -33,6 +30,10 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
 <br/>
+
+### 📊 This week I spent my time on
+
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=einverne&api_domain=wakapi.einverne.info&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777&layout=compact)
 
 <a href="https://github.com/xmp2008">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xmp2008&theme=buefy&show_icons=true" />
