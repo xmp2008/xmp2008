@@ -31,13 +31,9 @@
   
 <br/>
 
-### 📊 This week I spent my time on
-
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xmp2008&api_domain=wakapi.xmp2008.info&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777&layout=compact)
 
 <a href="https://github.com/xmp2008">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xmp2008&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?xmp2008=xmp2008&theme=buefy&layout=compact" />
 </a>
 
 <br/>
