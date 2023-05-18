@@ -3,6 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 - 🌱 &nbsp;I’m web development
+- 📫 &nbsp;Reach me at [Twitter](https://twitter.com/einverne) or <a rel="me" href="https://m.einverne.info/@einverne">Mastodon</a>.
 - 📝 I regularly write articles on <https://xmp2008.github.io/xmp-blog/>.
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
